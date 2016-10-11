@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="home">"主页"</string>
+    <string name="setting">"设置"</string>
+    <string name="allMusic">"全部音乐"</string>
+    <string name="musicList">"音乐列表"</string>
+    <string name="collectMusic">收藏夹</string>
+    <string name="wellcome">"点击进入音乐世界"</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
